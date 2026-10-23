@@ -1,3 +1,4 @@
 requests
 azure-storage-blob
 python-dotenv
+pandas
