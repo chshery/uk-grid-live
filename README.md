@@ -4,7 +4,7 @@
 
 An end-to-end data platform that collects live UK grid carbon and electricity price data every 30 minutes, models it in Azure SQL, uncovers when and where power is greenest and cheapest, forecasts carbon intensity 24 hours ahead, and serves the answer to anyone through a public postcode web app.
 
-🔗 **Live app:** https://uk-grid-live-zfo6nfumisxwv9rytv8yhn.streamlit.app/
+🔗 **Live app:** https://uk-grid-live.streamlit.app/
 📊 **Dashboard (PDF):** [docs/UK_Grid_Live_Dashboard.pdf](docs/UK_Grid_Live_Dashboard.pdf)
 
 ![Power BI overview](docs/images/powerbi_overview.png)
